@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+}
+
+h1,h2 {
+    margin: 0;
+}
+
+#cabeçalho {
+    background-color: #21022d;
+    color: white;
+    text-align: center;
+    padding: 8px;
+}
+
+#corpo {
+    background-color: #e2d8e7;
+    color: #21022d;
+    margin: 24px;
+    padding: 16px;
+}
+
+.vitamina {
+    padding-top: 32px;
+    padding-left: 64px;
+}
+
+.vitamina img {
+    width: 150px;
+    height: 150px;
+}
+
+.vitamina-lactose {
+    margin-top: 64px;
+    text-align: center;
+}
+
+.vitamina-lactose img {
+    margin-top: 32px;
+    width: 600px;
+    height: 300px;
+}
+
+#rodape {
+    background-color: #21022d;
+    color: white;
+    text-align: center;
+    padding: 8px;
+}
